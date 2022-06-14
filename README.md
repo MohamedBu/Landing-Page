@@ -14,7 +14,7 @@ Create a landing page thought the use of Javascript, HTML, and CSS.
 
 ## Goal
 
-Add extra functionality like a navigation menu, as well as changes to improve overall site compatibility on multiple devices.
+Add functionality by dynammically creating navigation menu, as well as changes to improve overall site compatibility on multiple devices.
 
 ### Files in Project
 
@@ -24,4 +24,6 @@ Add extra functionality like a navigation menu, as well as changes to improve ov
 
 ### Extra Notes
 
-- All features are usable across modern desktop, tablet, and phone browsers.
+- Udacity Course Completion Certificate : https://graduation.udacity.com/confirm/XVCYGYLJ
+
+
